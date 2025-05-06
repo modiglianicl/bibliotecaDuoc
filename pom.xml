@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>bibliotecaduoc</artifactId>
+	<artifactId>bibliotecaduocv2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bibliotecaduoc</name>
-	<description>buscador de libros disponibles</description>
+	<name>bibliotecaduocv2</name>
+	<description>repaso biblioteca duoc</description>
 	<url/>
 	<licenses>
 		<license/>

@@ -72,7 +72,7 @@ public class LibroRepository {
             this.listaLibros.remove(libroEliminar);
             System.out.println("Libro eliminado");
         } else {
-            System.out.println("Libro no exsite!");
+            System.out.println("Libro no existe!");
         }
     }
 
